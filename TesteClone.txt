@@ -1,2 +1,3 @@
 Clone
+teste de conflito 1
 teste de conflito 2
