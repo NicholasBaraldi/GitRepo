@@ -1,2 +1,3 @@
 teste 2 =)
 teste de conflito com master
+teste de conflito com branch
