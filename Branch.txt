@@ -1,2 +1,3 @@
 Teste de Branch
 Conflito para Rebase 1
+Conflito de Rebase 2
